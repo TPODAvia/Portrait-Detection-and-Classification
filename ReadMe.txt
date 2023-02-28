@@ -2,4 +2,4 @@ This project shows implementations of FasterRCNN and a CNN image classifier with
 
 Arhitecture:
 
-![alt text](Portrait classification.jpg)
+![alt text](./doc/PortraitClassification.jpg)
